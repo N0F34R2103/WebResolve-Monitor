@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.8",
+    "latestVersion":  "1.0.9",
     "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
-    "sha256":  "5F492357C5DE6321840A33ADB8D322051F03FE002972C044C8175A0D63A7514B",
-    "releaseNotes":  "Versione 1.0.8: controllo aggiornamenti GitHub con parsing JSON senza problemi di BOM.",
-    "publishedAt":  "2026-06-03 10:42:02"
+    "sha256":  "619F2D0A8D810964135CF51E9E5089FF80230E62B6468985DA24F02D3CBC9DC0",
+    "releaseNotes":  "Versione 1.0.9: controllo manifest tramite GitHub API per evitare cache del raw manifest.",
+    "publishedAt":  "2026-06-03 10:44:06"
 }
