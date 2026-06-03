@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.10",
+    "latestVersion":  "1.0.11",
     "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
-    "sha256":  "69CAA0F36EFFEF39667DC9A6A062BE30181D118920148D3C234CEDA1FC55649B",
-    "releaseNotes":  "Versione 1.0.10: rimosso il campo manuale manifest aggiornamenti e resa piu severa la verifica credenziali WebResolve.",
-    "publishedAt":  "2026-06-03 10:51:12"
+    "sha256":  "954396C94A5A8437D9BEF1642E92E00BB64C6FD362522CAEF340511680869AA0",
+    "releaseNotes":  "Versione 1.0.11: verifica credenziali con sessione temporanea pulita e login URL-encoded.",
+    "publishedAt":  "2026-06-03 11:03:28"
 }
