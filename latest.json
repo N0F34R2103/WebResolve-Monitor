@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.13",
-    "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/4252d594e663c9c2a1cc0e358b9f585526a8dfc3/WebResolve-Monitor-Setup.exe",
-    "sha256":  "66A7E9EA6F4142187915CF330915B36E827CE11427F99EE5F54A590292887309",
-    "releaseNotes":  "Versione 1.0.13: verifica credenziali basata sul risultato del login, non sulla risposta della lista ticket.",
-    "publishedAt":  "2026-06-03 11:16:30"
+    "latestVersion":  "1.0.14",
+    "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
+    "sha256":  "19FDD4F92832E54DC60DCA2B715E71984EC08C3D34FB5A8B022CCC12817E151A",
+    "releaseNotes":  "Versione 1.0.14: il monitor inizializza la sessione ticket e usa intestazioni Ajax prima di leggere la lista ticket.",
+    "publishedAt":  "2026-06-03 11:21:10"
 }
