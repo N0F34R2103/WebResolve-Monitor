@@ -1,7 +1,7 @@
 {
-    "latestVersion":  "1.0.12",
+    "latestVersion":  "1.0.13",
     "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
-    "sha256":  "0A3E80D4B129EA4E5D2029530EFD800CCA3CC5FBC7C53F72E0CE1D7DF53DD9E5",
-    "releaseNotes":  "Versione 1.0.12: inizializzazione sessione login prima della verifica credenziali e richiesta ticket uguale al monitor reale.",
-    "publishedAt":  "2026-06-03 11:10:48"
+    "sha256":  "66A7E9EA6F4142187915CF330915B36E827CE11427F99EE5F54A590292887309",
+    "releaseNotes":  "Versione 1.0.13: verifica credenziali basata sul risultato del login, non sulla risposta della lista ticket.",
+    "publishedAt":  "2026-06-03 11:15:31"
 }

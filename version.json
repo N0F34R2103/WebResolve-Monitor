@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "fileName":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
-    "sha256":  "0A3E80D4B129EA4E5D2029530EFD800CCA3CC5FBC7C53F72E0CE1D7DF53DD9E5",
-    "publishedAt":  "2026-06-03 11:10:48",
+    "sha256":  "66A7E9EA6F4142187915CF330915B36E827CE11427F99EE5F54A590292887309",
+    "publishedAt":  "2026-06-03 11:15:31",
     "repository":  "https://github.com/N0F34R2103/WebResolve-Monitor/tree/main",
     "manifestApi":  "https://api.github.com/repos/N0F34R2103/WebResolve-Monitor/contents/update-manifest.json?ref=main",
     "copyright":  "Questo software e stato creato da Alessandro Nardiello con l\u0027ausilio di Codex come proprieta intellettuale."
