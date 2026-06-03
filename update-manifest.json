@@ -1,6 +1,6 @@
 {
     "latestVersion":  "1.0.14",
-    "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/0e283b30ec121aa533cce18aa2076763e1e98fa4/WebResolve-Monitor-Setup.exe",
     "sha256":  "19FDD4F92832E54DC60DCA2B715E71984EC08C3D34FB5A8B022CCC12817E151A",
     "releaseNotes":  "Versione 1.0.14: il monitor inizializza la sessione ticket e usa intestazioni Ajax prima di leggere la lista ticket.",
     "publishedAt":  "2026-06-03 11:21:10"
