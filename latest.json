@@ -1,7 +1,7 @@
 ﻿{
     "latestVersion":  "1.0.7",
     "installerUrl":  "https://raw.githubusercontent.com/N0F34R2103/WebResolve-Monitor/main/WebResolve-Monitor-Setup.exe",
-    "sha256":  "1E3BAB0886761167439A16908EF079F664123B45516BA0CF63C1DD9C821ECBC9",
-    "releaseNotes":  "Versione 1.0.6: sorgente aggiornamenti da cartella Nextcloud locale o link online, con manifest e installer relativo.",
-    "publishedAt":  "2026-05-26 18:05:54"
+    "sha256":  "4FA7B73A295335993EBFDBBA5C8C045B64CEEA89071DE0ED03057CA30644543A",
+    "releaseNotes":  "Versione 1.0.7: aggiornamenti configurati su GitHub con manifest raw e supporto link repository GitHub.",
+    "publishedAt":  "2026-06-03 10:35:44"
 }
